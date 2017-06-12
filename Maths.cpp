@@ -13,3 +13,11 @@ double Maths::soma(){
 double Maths::subtracao(){
 	return valorA - valorB;
 }
+
+double Maths::multiplicacao(){
+	return valorA * valorB;
+}
+
+double Maths::divisao(){
+	return valorA / valorB;
+}
