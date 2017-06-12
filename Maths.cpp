@@ -21,3 +21,7 @@ double Maths::multiplicacao(){
 double Maths::divisao(){
 	return valorA / valorB;
 }
+
+Maths::~Maths(){
+	cout << "O objeto foi destruído." << endl;
+}
