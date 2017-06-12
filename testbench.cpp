@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(){
-  double a = 7.00;
-  double b = 13.0;
+  double a = 11.03;
+  double b = 29.47;
   Maths conta(a,b);
   
 }
