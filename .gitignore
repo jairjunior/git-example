@@ -1,0 +1,6 @@
+# Ignore todos arquivos .txt
+*.txt
+# Mas não inore o arquivo README.txt
+!README.txt
+# Ignore a pasta build
+build/
