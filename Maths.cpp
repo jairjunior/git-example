@@ -9,3 +9,7 @@ Maths::Maths(double a, double b){
 double Maths::soma(){
 	return valorA + valorB;
 }
+
+double Maths::subtracao(){
+	return valorA - valorB;
+}
